@@ -7,6 +7,6 @@
 <img src="Despues.png"/>
 
 
-<p>Version movil</p>
+<p>Version mobile</p>
 
 <img src="Movil.png"/>
