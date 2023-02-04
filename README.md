@@ -9,4 +9,4 @@
 
 <p>Version mobile</p>
 
-<img src="Movil.png"/>
+<img src="Mobile.png"/>
